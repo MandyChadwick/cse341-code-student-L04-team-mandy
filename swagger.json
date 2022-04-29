@@ -5,7 +5,8 @@
     "description": "Temple API",
     "version": "1.0.0"
   },
-  "host": "localhost:8080",
+  "host": "temples-byui.herokuapp.com/api-docs",
+  
   "basePath": "/",
   "schemes": [
     "http"
