@@ -6,10 +6,9 @@
     "version": "1.0.0"
   },
   "host": "temples-byui.herokuapp.com",
-  
   "basePath": "/",
   "schemes": [
-    "http"
+    "https"
   ],
   "paths": {
     "/temples/": {
